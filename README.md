@@ -1,110 +1,200 @@
 <div align="center">
 
-<!-- Minimalistic Animated Header Banner -->
-<img src="banner.svg" alt="Syed Ibrahim Ahmed Banner" width="100%">
+<!-- Wave Banner (Cyan/Teal/Indigo Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,26&height=220&section=header&text=Syed%20Ibrahim%20Ahmed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Undergraduate%20%7C%20Systems%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<br />
+<!-- Typing SVG (Cyan Theme) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Learning+by+building+intelligent+systems;AI%2FML+Undergraduate+%2B+Developer;Exploring+Computer+Vision+%26+Deep+Learning;Open+to+collaborations+%26+internships" alt="Typing SVG" />
+</a>
 
-<!-- Animated Role Typewriter Subheading -->
-<img src="typing.svg" alt="System Status Typewriter" width="380">
+<br/>
 
-<br /><br />
+<!-- Academic / Location Badges -->
+![Academic](https://img.shields.io/badge/B.Tech-AIML-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/Anurag_University-Hyderabad-818cf8?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Hyderabad,_India-4ade80?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<!-- Unified Minimalist Academic Badges -->
-![B.Tech](https://img.shields.io/badge/B.TECH-AIML-0f172a?style=for-the-badge&labelColor=1e293b&color=22d3ee)
-![University](https://img.shields.io/badge/ANURAG_UNIVERSITY-HYDERABAD-0f172a?style=for-the-badge&labelColor=1e293b&color=0f766e)
-![Location](https://img.shields.io/badge/LOCATION-HYDERABAD,_INDIA-0f172a?style=for-the-badge&labelColor=1e293b&color=06b6d4)
+<br/>
 
-<br /><br />
+<!-- Contact Buttons -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ibrahim-ahmed-84312a224/)
+[![Email](https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedibrahimahmed.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-64748b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphadevib)
 
-<!-- Unified Minimalist Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0f172a?style=for-the-badge&labelColor=1e293b&color=06b6d4&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ibrahim-ahmed-84312a224/)
-[![Email](https://img.shields.io/badge/EMAIL-contact_me-0f172a?style=for-the-badge&labelColor=1e293b&color=06b6d4&logo=gmail&logoColor=white)](mailto:syedibrahimahmed.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-alphadevib-0f172a?style=for-the-badge&labelColor=1e293b&color=06b6d4&logo=github&logoColor=white)](https://github.com/alphadevib)
+<br/>
 
-<br /><br />
-
-<!-- Unified Minimalist Analytics Badges -->
-![Profile views](https://komarev.com/ghpvc/?username=alphadevib&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/alphadevib?style=for-the-badge&label=FOLLOWERS&labelColor=1e293b&color=0f766e)
-![Stars](https://img.shields.io/github/stars/alphadevib?affiliations=OWNER&style=for-the-badge&label=STARS&labelColor=1e293b&color=06b6d4)
+<!-- Stats badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=alphadevib&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/alphadevib?style=for-the-badge&color=14b8a6&labelColor=1a1a2e)
+![GitHub stars](https://img.shields.io/github/stars/alphadevib?style=for-the-badge&color=818cf8&labelColor=1a1a2e)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<table width="100%">
-  <tr>
-    <td width="25%"><b>🟢 STATUS</b></td>
-    <td>Learning by building intelligent systems</td>
-  </tr>
-  <tr>
-    <td width="25%"><b>🧭 CURRENT VECTOR</b></td>
-    <td>AI/ML · Computer Vision · Practical Products</td>
-  </tr>
-  <tr>
-    <td width="25%"><b>🎯 LONG-TERM MISSION</b></td>
-    <td>Use AI to create accessible, high-impact solutions</td>
-  </tr>
-</table>
-
-## 🧠 About me
+## 🧠 About Me
 
 ```yaml
 name: "Syed Ibrahim Ahmed"
-role: "AI/ML Undergraduate"
-education: "B.Tech in Artificial Intelligence & Machine Learning — Anurag University"
+role: "AI/ML Undergraduate & Developer"
+university: "Anurag University, Hyderabad"
 graduation: "2028"
 location: "Hyderabad, India"
-focus: "Computer vision · intelligent systems · real-world AI"
+focus:
+  - "Computer Vision & Deep Learning architectures"
+  - "Building intelligent products that make a real difference"
+  - "Creating accessible, zero-latency visual interfaces for model inference"
+engineering_mindset:
+  - "Pragmatic builder: Focus on converting concepts into functioning systems"
+  - "Treat UI/UX and product logic as vital parts of system engineering"
+  - "Clean codebase, structured APIs, and robust local datastores"
+open_to:
+  - "AI/ML Engineering Internships"
+  - "Collaborative builds in health-tech and campus platforms"
 ```
 
-I’m an AI/ML student who enjoys converting ideas into practical software. I’m especially interested in computer vision, machine learning, and building intelligent products that can make a difference—particularly in healthcare and campus technology.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ⚡ Featured build
+## 🛠️ Tech Stack
 
-### CampFind — Smart Campus Lost & Found System
+**Languages**
+![](https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark)
 
-An AI-powered web app that helps people report and recover lost items on campus.
+**Tools & Frameworks**
+![](https://skillicons.dev/icons?i=tensorflow,flask,sqlite,git,github,vscode&theme=dark)
 
-- **Detection:** TensorFlow Lite detects common campus items.
-- **Matching:** MobileNetV2 features and cosine similarity identify likely matches.
-- **Stack:** Flask REST API, SQLite, HTML, CSS, and JavaScript.
-- **Goal:** Make lost-item recovery faster, simpler, and smarter.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+## 🤖 AI / ML Expertise
 
-## 🛠️ Stack
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Computer Vision & CNNs | ●●●●○ | Object detection (YOLO, TFLite), transfer learning models (MobileNetV2) |
+| Deep Learning Foundations | ●●●○○ | Model designing, training pipelines, and custom CNN layers |
+| Machine Learning | ●●●○○ | Regression, classification, scikit-learn, Pandas, NumPy data preprocessing |
+| Applied AI Systems | ●●●●○ | Packaging model predictions into responsive web services (FastAPI/Flask) |
+| Database Integration | ●●●○○ | Storing system telemetry, log management, and relational mapping in SQLite |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,flask,sqlite,html,css,js,git,github,vscode&theme=dark" alt="Python, Java, TensorFlow, Flask, SQLite, HTML, CSS, JavaScript, Git, GitHub and VS Code" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+## 🚀 Featured Projects
 
-## 📈 Live GitHub activity
+<details>
+<summary><b>🕵️ CampFind — Smart Campus Lost & Found System</b></summary>
+<br/>
+
+An AI-powered web application that helps students report and recover lost items on campus through automated feature matching and classification.
+
+| Category | Details |
+|---|---|
+| **Stack** | Flask REST API, SQLite, HTML, CSS, JavaScript |
+| **Detection** | TensorFlow Lite detects common campus items |
+| **Matching** | MobileNetV2 features and cosine similarity identify likely matches |
+| **Performance** | Fast local SQLite indexing, real-time matches prediction |
+| **Impact** | Simplifies lost-item recovery cycles on campus |
+| **Repository** | `https://github.com/alphadevib/CampFind` |
+
+</details>
+
+<details>
+<summary><b>🌾 HarvestHQ — Smart Agriculture AI Platform</b></summary>
+<br/>
+
+A premium predictive diagnostics dashboard for modern farming. Integrates real-time weather fallbacks, crop classification CNNs, and path optimization models.
+
+| Category | Details |
+|---|---|
+| **Stack** | FastAPI, SQLite, NetworkX, TensorFlow, Scikit-learn, React |
+| **Scale** | Multi-factor classification (N, P, K, pH, rainfall constraints) |
+| **Performance** | Low-latency FastAPI microservice inference (<200ms) |
+| **Optimization** | Algorithmic supply chain route planner with weather-hazard weights |
+| **Repository** | `https://github.com/alphadevib/HarvestHQ` |
+
+</details>
+
+<details>
+<summary><b>🍂 Leaf Disease Classifier</b></summary>
+<br/>
+
+A Convolutional Neural Network (CNN) application trained to identify foliage crop diseases using deep transfer learning.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, TensorFlow, MobileNetV2, OpenCV |
+| **Performance** | Real-time image ingest and preprocessing filters |
+| **Accuracy** | 97.4% validation accuracy on custom leaf diagnostics |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💼 Experience
+
+**Google AI-ML Intern** · Remote
+📅 Apr 2026 – Jun 2026 · *Supported by AICTE, EduSkills, and Google for Developers*
+
+Engaged in a structured 8-week virtual learning pathway focused on developer technologies, ML pipelines, and cloud APIs.
+
+- Worked with Google Developer training frameworks to study ML pipelines and dataset pre-processings
+- Built research prototypes demonstrating transfer learning methods and model evaluations
+- Learned foundational MLOps practices for model lifecycle tracking
+
+`Google Developers` `TensorFlow` `AICTE` `Internship`
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🏆 Achievements
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alphadevib&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=34d399&text_color=cbd5e1&ring_color=818cf8" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=alphadevib&hide_border=true&background=0D1117&ring=22D3EE&fire=34D399&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=64748B&stroke=1E293B" alt="GitHub streak" />
+
+| Recognition | Details |
+|---|---|
+| TECHNIDHI 2026 | Hack the Matrix Hackathon — Finalist/Participant |
+| AVINYA 2025 | Developed and pitched CampFind system to campus judges |
+| Google virtual intern | Completed AI/ML AICTE-certified training program (Apr-Jun 2026) |
+
 </div>
 
-<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Deep Learning architectures & Transformers
+  - Data Structures & Algorithms (deep dive)
+  - Java core internals
+
+building:
+  - Accessible local AI playgrounds
+  - High-performance FastAPI backend wrappers
+
+exploring:
+  - Large Language Models (LLMs) & prompt pipelines
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤝 Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphadevib&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
+
+[![Gmail](https://img.shields.io/badge/Gmail-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedibrahimahmed.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ibrahim-ahmed-84312a224/)
+[![GitHub](https://img.shields.io/badge/GitHub-64748b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphadevib)
+
 </div>
 
----
-
-## 📡 Experience & learning
-
-- 🧑‍💻 **Google AI-ML Intern** — Remote internship, Apr–Jun 2026.
-- 🎓 Completed an **8-week AI/ML virtual internship** supported by AICTE, EduSkills, the National Internship Portal, and Google for Developers.
-- 🏆 Active in hackathons and innovation events, including **TECHNIDHI 2026 — Hack the Matrix** and **AVINYA 2025**.
-
-<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
-  <sub>BUILD • LEARN • ITERATE</sub>
+
+*"Build, Learn, Iterate. Good systems should be simple and functional."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,26&height=120&section=footer" width="100%"/>
+
 </div>
