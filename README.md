@@ -12,16 +12,7 @@
 
 <!-- Academic / Location Badges -->
 ![Academic](https://img.shields.io/badge/B.Tech-AIML-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/Anurag_University-Hyderabad-818cf8?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Hyderabad,_India-4ade80?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-<!-- Contact Buttons -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ibrahim-ahmed-84312a224/)
-[![Email](https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedibrahimahmed.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-64748b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphadevib)
 
 <br/>
 
