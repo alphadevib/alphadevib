@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Glowing Animated Header Banner -->
-<img src="banner.svg" alt="ALPHADEVIB Banner" width="100%">
+<!-- Minimalistic Animated Header Banner -->
+<img src="banner.svg" alt="Syed Ibrahim Ahmed Banner" width="100%">
 
 <br />
 
@@ -10,25 +10,24 @@
 
 <br /><br />
 
-<!-- Profile Academic Details -->
-![Degree](https://img.shields.io/badge/DEGREE-B.TECH-0f172a?style=for-the-badge&labelColor=134e4a&color=14b8a6)
-![Specialisation](https://img.shields.io/badge/SPECIALISATION-AI_%26_ML-0f172a?style=for-the-badge&labelColor=164e63&color=22d3ee)
-![University](https://img.shields.io/badge/UNIVERSITY-ANURAG-0f172a?style=for-the-badge&labelColor=312e81&color=818cf8)
-![Location](https://img.shields.io/badge/LOCATION-HYDERABAD,_INDIA-0f172a?style=for-the-badge&labelColor=14532d&color=4ade80)
+<!-- Unified Minimalist Academic Badges -->
+![B.Tech](https://img.shields.io/badge/B.TECH-AIML-0f172a?style=for-the-badge&labelColor=1e293b&color=22d3ee)
+![University](https://img.shields.io/badge/ANURAG_UNIVERSITY-HYDERABAD-0f172a?style=for-the-badge&labelColor=1e293b&color=0f766e)
+![Location](https://img.shields.io/badge/LOCATION-HYDERABAD,_INDIA-0f172a?style=for-the-badge&labelColor=1e293b&color=06b6d4)
 
 <br /><br />
 
-<!-- Social Connect Cards -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0f172a?style=for-the-badge&labelColor=075985&color=38bdf8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ibrahim-ahmed-84312a224/)
-[![Email](https://img.shields.io/badge/EMAIL-contact_me-0f172a?style=for-the-badge&labelColor=065f46&color=34d399&logo=gmail&logoColor=white)](mailto:syedibrahimahmed.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-alphadevib-0f172a?style=for-the-badge&labelColor=1e293b&color=94a3b8&logo=github&logoColor=white)](https://github.com/alphadevib)
+<!-- Unified Minimalist Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0f172a?style=for-the-badge&labelColor=1e293b&color=06b6d4&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ibrahim-ahmed-84312a224/)
+[![Email](https://img.shields.io/badge/EMAIL-contact_me-0f172a?style=for-the-badge&labelColor=1e293b&color=06b6d4&logo=gmail&logoColor=white)](mailto:syedibrahimahmed.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-alphadevib-0f172a?style=for-the-badge&labelColor=1e293b&color=06b6d4&logo=github&logoColor=white)](https://github.com/alphadevib)
 
 <br /><br />
 
-<!-- Profile Analytics Counters -->
-![Profile views](https://komarev.com/ghpvc/?username=alphadevib&style=for-the-badge&color=14b8a6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/alphadevib?style=for-the-badge&label=FOLLOWERS&labelColor=164e63&color=22d3ee)
-![Stars](https://img.shields.io/github/stars/alphadevib?affiliations=OWNER&style=for-the-badge&label=STARS&labelColor=312e81&color=818cf8)
+<!-- Unified Minimalist Analytics Badges -->
+![Profile views](https://komarev.com/ghpvc/?username=alphadevib&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/alphadevib?style=for-the-badge&label=FOLLOWERS&labelColor=1e293b&color=0f766e)
+![Stars](https://img.shields.io/github/stars/alphadevib?affiliations=OWNER&style=for-the-badge&label=STARS&labelColor=1e293b&color=06b6d4)
 
 </div>
 
@@ -60,7 +59,7 @@ location: "Hyderabad, India"
 focus: "Computer vision · intelligent systems · real-world AI"
 ```
 
-I’m an AI/ML student who enjoys converting ideas into practical software. I’m especially interested in computer vision, machine learning, and building intelligent products that can make a real difference—particularly in healthcare and campus technology.
+I’m an AI/ML student who enjoys converting ideas into practical software. I’m especially interested in computer vision, machine learning, and building intelligent products that can make a difference—particularly in healthcare and campus technology.
 
 ## ⚡ Featured build
 

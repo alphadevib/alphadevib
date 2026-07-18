@@ -65,39 +65,39 @@
     }
 
     /* Cursor X movement maps to character widths */
-    /* "AI/ML Undergraduate" has 19 chars -> width ~ 19 * 10.8 = 205.2px + 20px offset = 225px */
+    /* "AI/ML Undergraduate + Developer" has 31 chars -> width ~ 31 * 10.8 = 334.8px + 20px offset = 355px */
     @keyframes cursorMove1 {
       0% { opacity: 1; transform: translateX(20px); }
-      5%, 28% { transform: translateX(225px); opacity: 1; }
+      5%, 28% { transform: translateX(355px); opacity: 1; }
       30%, 100% { opacity: 0; }
     }
 
-    /* "Computer Vision Developer" has 25 chars -> width ~ 25 * 10.8 = 270px + 20px offset = 290px */
+    /* "Computer Vision Enthusiast" has 26 chars -> width ~ 26 * 10.8 = 280.8px + 20px offset = 301px */
     @keyframes cursorMove2 {
       0%, 33% { opacity: 0; }
       34% { opacity: 1; transform: translateX(20px); }
-      39%, 61% { transform: translateX(290px); opacity: 1; }
+      39%, 61% { transform: translateX(301px); opacity: 1; }
       63%, 100% { opacity: 0; }
     }
 
-    /* "CampFind Creator" has 16 chars -> width ~ 16 * 10.8 = 172.8px + 20px offset = 193px */
+    /* "Intelligent Systems Builder" has 27 chars -> width ~ 27 * 10.8 = 291.6px + 20px offset = 312px */
     @keyframes cursorMove3 {
       0%, 66% { opacity: 0; }
       67% { opacity: 1; transform: translateX(20px); }
-      72%, 94% { transform: translateX(193px); opacity: 1; }
+      72%, 94% { transform: translateX(312px); opacity: 1; }
       96%, 100% { opacity: 0; }
     }
   </style>
 
-  <!-- Text 1: AI/ML Undergraduate -->
-  <text x="20" y="18" class="typewriter-text text-1">AI/ML Undergraduate</text>
+  <!-- Text 1: AI/ML Undergraduate + Developer -->
+  <text x="20" y="18" class="typewriter-text text-1">AI/ML Undergraduate + Developer</text>
   <rect x="0" y="7" width="10" height="20" class="cursor cursor-1" />
 
-  <!-- Text 2: Computer Vision Developer -->
-  <text x="20" y="18" class="typewriter-text text-2">Computer Vision Developer</text>
+  <!-- Text 2: Computer Vision Enthusiast -->
+  <text x="20" y="18" class="typewriter-text text-2">Computer Vision Enthusiast</text>
   <rect x="0" y="7" width="10" height="20" class="cursor cursor-2" />
 
-  <!-- Text 3: CampFind Creator -->
-  <text x="20" y="18" class="typewriter-text text-3">CampFind Creator</text>
+  <!-- Text 3: Intelligent Systems Builder -->
+  <text x="20" y="18" class="typewriter-text text-3">Intelligent Systems Builder</text>
   <rect x="0" y="7" width="10" height="20" class="cursor cursor-3" />
 </svg>
