@@ -105,20 +105,6 @@ A premium predictive diagnostics dashboard for modern farming. Integrates real-t
 
 </details>
 
-<details>
-<summary><b>🍂 Leaf Disease Classifier</b></summary>
-<br/>
-
-A Convolutional Neural Network (CNN) application trained to identify foliage crop diseases using deep transfer learning.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, TensorFlow, MobileNetV2, OpenCV |
-| **Performance** | Real-time image ingest and preprocessing filters |
-| **Accuracy** | 97.4% validation accuracy on custom leaf diagnostics |
-
-</details>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💼 Experience
