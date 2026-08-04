@@ -130,8 +130,8 @@ Engaged in a structured 8-week virtual learning pathway focused on developer tec
 
 | Recognition | Details |
 |---|---|
-| TECHNIDHI 2026 | Hack the Matrix Hackathon — Finalist/Participant |
-| AVINYA 2025 | Developed and pitched CampFind system to campus judges |
+| TECHNIDHI 2026 | Hack the Matrix Hackathon — Top 15 /Participant/ Frontend Dev |
+| AVINYA 2025 | Developed and pitched an autonomous network security agent |
 | Google virtual intern | Completed AI/ML AICTE-certified training program (Apr-Jun 2026) |
 
 </div>
