@@ -37,13 +37,15 @@ focus:
   - "Computer Vision & Deep Learning architectures"
   - "Building intelligent products that make a real difference"
   - "Creating accessible, zero-latency visual interfaces for model inference"
+  - "Designing creative frontend, backend integrations with scalability"
 engineering_mindset:
   - "Pragmatic builder: Focus on converting concepts into functioning systems"
   - "Treat UI/UX and product logic as vital parts of system engineering"
   - "Clean codebase, structured APIs, and robust local datastores"
 open_to:
   - "AI/ML Engineering Internships"
-  - "Collaborative builds in health-tech and campus platforms"
+  - "Collaborative builds in Health-Tech and Fin-Tech Projects"
+Mostly these days are for vibe-coding, but i do it in a wiser and efficient way (AI toolset and effective prompts)  along with a daily grind on DSA.
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
