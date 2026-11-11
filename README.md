@@ -166,10 +166,12 @@ I've shipped projects first; now I'm building the fundamentals under them proper
 
 | When | What |
 |---|---|
-| **2026** · Sep – now | **Vice Chair, IEEE Education Society** student chapter, Anurag University |
-| **2026** · Apr – Jun | **Google AI-ML Virtual Internship** (AICTE × EduSkills × Google for Developers): ML pipelines, dataset preprocessing, transfer-learning prototypes, MLOps basics |
-| **2026** | **TECHNIDHI: Hack the Matrix**, Top 15 as frontend developer |
-| **2025** | **AVINYA**, built and pitched an autonomous network-security agent |
+| **Oct-2026** | **alphadevib.tech platform-3**, Developed HandyAI, an AI tools marketplace to wuicky buy subscriptions and know your tech stack. (deployed) |
+| **Sep-2026** | **AVINYA 2k26, 2nd Edition**, Built Astrix AI and pitched it in the context of upcoming Space and Tech Integration.(to be deployed) |
+| **Jul-2026** | **alphadevib.tech platform-2**, Developed RuleMaker, an AI platform to verify and know about Legal Terms. (to be deployed) |
+| **Jul-2026** | **TECHNIDHI: Hack the Matrix**, Had built phycraft.tech, TOp 15 as Frontend Dev.(deployed) |
+| **Feb-2026** | **alphadevib.tech platform-1**, Developed Plantpotter, an AI platform that takes a step ahead in AgriTech. (to be deployed)|
+| **Sep-2025** | **AVINYA 2k25, 1st Edition**, Built Netsky AI as a prototype and pitched it.(to be deployed) |
 
 ---
 
