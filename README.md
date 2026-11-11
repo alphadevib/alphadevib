@@ -77,7 +77,7 @@ A marketplace for AI tools: compare 39 platforms across monthly, quarterly and a
 <tr>
 <td width="50%" valign="top">
 
-#### ⚖️ [LexiCandid](https://github.com/alphadevib/RuleMaker)
+#### ⚖️ [RuleMaker](https://github.com/alphadevib/RuleMaker)
 AI legal-document explainer for Indian contracts. Upload a rental agreement, loan or employment contract (PDF, DOCX or TXT) and get plain-English risk flags, fairer counter-clauses, and **LexiBot**, a RAG chatbot grounded in Indian tenancy & consumer law.
 
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -88,7 +88,7 @@ AI legal-document explainer for Indian contracts. Upload a rental agreement, loa
 </td>
 <td width="50%" valign="top">
 
-#### 🌾 [HarvestHQ](https://github.com/alphadevib/PlantPotter)
+#### 🌾 [PlantPotter](https://github.com/alphadevib/PlantPotter)
 Smart-agriculture platform for India: live weather, crop recommendation from soil N-P-K/pH/rainfall, yield & market-price prediction, plant-disease detection from leaf images, an AI farmer assistant, and supply-chain mapping.
 
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
