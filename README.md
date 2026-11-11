@@ -19,11 +19,12 @@
 
 ### `> whoami`
 
-I'm an **AI/ML undergraduate (B.Tech)** who learns by shipping. Most of what I build sits where models meet real products: agents that reason and recover, RAG assistants grounded in real documents, vision pipelines, and the APIs and interfaces that make them usable.
+I'm an **AI/ML undergraduate (B.Tech, class of 2028)** at Anurag University, and I learn by shipping. Most of what I build sits where models meet real products: agents that reason and recover, RAG assistants grounded in real documents, vision pipelines, and the APIs and interfaces that make them usable.
 
 ```txt
-▸ Currently   building multi-agent systems and LLM-powered full-stack apps
-▸ Learning    Transformers & advanced DL · DSA (daily) · Java internals
+▸ Currently   building Netsky AI, an autonomous network-security agent
+▸ Also        multi-agent systems and LLM-powered full-stack apps
+▸ Learning    DSA · AI/ML · Java · C++ · Python · GPU computing · a bit of cybersecurity
 ▸ Workflow    AI-assisted development, done deliberately: good prompts, real reviews
 ▸ Looking for AI/ML engineering internships · Health-Tech & Fin-Tech collabs
 ```
@@ -36,10 +37,24 @@ I'm an **AI/ML undergraduate (B.Tech)** who learns by shipping. Most of what I b
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+#### 🛡️ [Netsky AI](https://github.com/alphadevib/netsky) &nbsp;<img src="https://img.shields.io/badge/in_progress-f97316?style=flat-square"/>
+An autonomous network-security agent that **predicts → detects → contains → reports** threats. A Chrome extension blocks phishing pages and malicious URLs in the browser, a desktop agent watches network behaviour and isolates suspicious activity, and a cloud backend links events into attack chains mapped to MITRE ATT&CK. High-impact actions wait for user approval, every action can be rolled back, and indicators of compromise export as STIX 2.1.
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Chrome_Extension_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![](https://img.shields.io/badge/Anomaly_Detection-4c1d95?style=flat-square)
+![](https://img.shields.io/badge/MITRE_ATT%26CK-4c1d95?style=flat-square)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-#### 🛰️ [Astrix-AI](https://github.com/alphadevib/Astrix-AI)
-Autonomous spacecraft intelligence. Flies a simulated Earth-observation satellite, then **detects → diagnoses → plans → verifies → recovers → learns** from faults, checking plans against safety rules and a digital twin. Multi-model gateway (Anthropic, Gemini, Groq, OpenAI, Ollama) with deterministic fallbacks.
+#### 🛰️ [Astrix-AI](https://github.com/alphadevib/AstrixAI)
+Autonomous spacecraft intelligence. Flies a simulated Earth-observation satellite from launch to orbit, then **detects → diagnoses → plans → verifies → recovers → learns** from faults, checking every plan against safety rules and a digital twin before acting. Multi-model gateway (Gemini, Groq, Hugging Face, Ollama and more) with deterministic fallbacks, so it runs with no API key at all.
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Multi--Agent-4c1d95?style=flat-square)
@@ -49,8 +64,8 @@ Autonomous spacecraft intelligence. Flies a simulated Earth-observation satellit
 </td>
 <td width="50%" valign="top">
 
-#### 🧰 [HandyAI](https://github.com/alphadevib/HandyAI_backend)
-A marketplace for AI tools: compare 39 platforms across monthly, quarterly and annual pricing, get picks for your profession, ask a voice/text AI chat, and track every AI subscription in one place. Includes a live admin dashboard.
+#### 🧰 HandyAI · [backend](https://github.com/alphadevib/HandyAI_backend) · [frontend](https://github.com/alphadevib/HandyAI_frontend) · [live](https://ib11.vercel.app)
+A marketplace for AI tools: compare 39 platforms across monthly, quarterly and annual pricing, get picks for your profession, ask a voice/text AI chat backed by vector search and a local LLM, and track every AI subscription in one place. Flyway-managed schema, Docker Compose, live admin dashboard.
 
 ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -62,8 +77,8 @@ A marketplace for AI tools: compare 39 platforms across monthly, quarterly and a
 <tr>
 <td width="50%" valign="top">
 
-#### ⚖️ [LexiCandid](https://github.com/alphadevib/LexiCandid)
-AI legal-document explainer for Indian contracts. Upload a rental agreement, loan or ToS and get plain-English risk flags, fairer counter-clauses, and **LexiBot**, a RAG chatbot grounded in Indian tenancy & consumer law.
+#### ⚖️ [LexiCandid](https://github.com/alphadevib/RuleMaker)
+AI legal-document explainer for Indian contracts. Upload a rental agreement, loan or employment contract (PDF, DOCX or TXT) and get plain-English risk flags, fairer counter-clauses, and **LexiBot**, a RAG chatbot grounded in Indian tenancy & consumer law.
 
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -73,6 +88,25 @@ AI legal-document explainer for Indian contracts. Upload a rental agreement, loa
 </td>
 <td width="50%" valign="top">
 
+#### 🌾 [HarvestHQ](https://github.com/alphadevib/PlantPotter)
+Smart-agriculture platform for India: live weather, crop recommendation from soil N-P-K/pH/rainfall, yield & market-price prediction, plant-disease detection from leaf images, an AI farmer assistant, and supply-chain mapping.
+
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/NetworkX-4c1d95?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<!--
+  QuestForge and CampFind are not public right now, so their links would 404.
+  Once each repo is public, paste this row back inside the <table> above.
+
+<tr>
+<td width="50%" valign="top">
+
 #### ⚔️ [QuestForge](https://github.com/alphadevib/QuestForge)
 An LLM-powered dungeon master with persistent world state, NPC memory & relationships, a d20 rules engine with DC checks, a fog-of-war tactical map, and a zero-dependency Web Audio synth for dice and spells.
 
@@ -80,19 +114,6 @@ An LLM-powered dungeon master with persistent world state, NPC memory & relation
 ![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![](https://img.shields.io/badge/Web_Audio-4c1d95?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌾 [HarvestHQ](https://github.com/alphadevib/HarvestHQ-)
-Smart-agriculture platform for India: live weather, crop recommendation from soil N-P-K/pH/rainfall, yield & market-price prediction, plant-disease detection from leaf images, an AI agronomist chatbot, and supply-chain mapping.
-
-![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/NetworkX-4c1d95?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -107,9 +128,25 @@ Smart campus lost & found. Report items with a photo and let a vision model auto
 
 </td>
 </tr>
-</table>
+-->
 
-<sub>More on my profile: <a href="https://github.com/alphadevib/StudentManagementSystem">StudentManagementSystem</a> · <a href="https://github.com/alphadevib/Jobskimmer">Jobskimmer</a></sub>
+---
+
+### 📚 What I'm Learning
+
+I've shipped projects first; now I'm building the fundamentals under them properly. I started this plan in **November 2026** and aim to finish the basic and intermediate levels by **June 2027**.
+
+| Track | Focus | Status |
+|---|---|---|
+| **DSA** | Core data structures, algorithms and regular problem solving | 🟠 Started |
+| **AI / ML** | ML fundamentals, deep learning, Transformers | 🟠 Started |
+| **Python** | Deeper language skills for ML and backend work | 🟠 Started |
+| **Java** | Core Java and internals | 🟠 Started |
+| **C++** | Language fundamentals, with performance-focused code in mind | 🟠 Started |
+| **GPU computing** | Parallel programming basics and GPU-accelerated ML | 🟠 Started |
+| **Cybersecurity** | Network and web security basics (on the side) | 🟠 Started |
+
+<sub>Timeline: Nov 2026 → Jun 2027 · I'll update the status column as each track moves from basics to intermediate.</sub>
 
 ---
 
@@ -129,6 +166,7 @@ Smart campus lost & found. Report items with a photo and let a vision model auto
 
 | When | What |
 |---|---|
+| **2026** · Sep – now | **Vice Chair, IEEE Education Society** student chapter, Anurag University |
 | **2026** · Apr – Jun | **Google AI-ML Virtual Internship** (AICTE × EduSkills × Google for Developers): ML pipelines, dataset preprocessing, transfer-learning prototypes, MLOps basics |
 | **2026** | **TECHNIDHI: Hack the Matrix**, Top 15 as frontend developer |
 | **2025** | **AVINYA**, built and pitched an autonomous network-security agent |
